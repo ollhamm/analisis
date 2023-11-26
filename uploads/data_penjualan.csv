@@ -1,0 +1,10 @@
+TransactionID,Date,Product,Category,Price,Quantity,Total
+1,1/1/2023,kabel,Electronics,50.00,1,900
+2,1/2/2023,hodie,Clothing,1200.00,5,150
+3,1/3/2023,keyboard,Electronics,70.00,2,200
+4,1/4/2023,mouse,Electronics,800.00,4,250
+5,1/5/2023,kaos,Clothing,500.00,3,300
+6,1/6/2023,usb,Electronics,200.00,1,350
+7,1/7/2023,psu,Electronics,600.00,6,400
+8,1/8/2023,celana,Clothing,45.00,2,450
+9,1/9/2023,printer,Electronics,300.00,3,100
